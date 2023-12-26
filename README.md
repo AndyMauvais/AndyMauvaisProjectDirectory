@@ -1,12 +1,9 @@
-# AndyMauvaisProjectDirectory
-Find all of my projects links and descriptions here
+# Project Directory
+Find all of my project links and descriptions here
 
 ### Tableau Public  
 https://public.tableau.com/app/profile/andy.mauvais/vizzes  
   
-# ProjectDirectory
-Find all of my projects + descriptions here
-
 ### Projects Repositories
 * [Web_Analytics_ETL](https://github.com/AndyMauvais/Web_Analytics_ETL) - Demonstrates the ETL process of a website's analytic data from data extraction, to data storage, to data visualization and insights. (Python, SQLite, Tableau)  
 * [GooglePlaystore_Project](https://github.com/AndyMauvais/GooglePlaystore_Project) - Predicting the rating of an app on the Google Playstore using ETL process and machine learning.
